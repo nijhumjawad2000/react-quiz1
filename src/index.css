@@ -1,0 +1,23 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    width: 1064px;
+    min-height: 15px;
+    padding: 10px;
+    display: flex;
+    font-family: "Helvetica", arial, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+   }
+   
+.name{
+    margin-left: 5px;
+    margin-top: -3px;
+   }
+#root{
+    margin-left: 10vw;
+}
+.fa{
+    color: blue;
+}
